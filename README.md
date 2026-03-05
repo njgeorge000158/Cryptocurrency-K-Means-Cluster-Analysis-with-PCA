@@ -58,7 +58,7 @@ Balancing all four metrics, K=4 remains the recommended optimal configuration in
 
 ---
 
-### *K-Means Clustering: PCA Data (Figures 6.3.1–6.3.3, 6.4.1–6.4.3)*
+### *K-Means Clustering: PCA Data (Figures 6.3.1–6.3.3, 6.4.1–6.4.4)*
 
 
 <img width="988" alt="crypto8" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/2b1a8d83-ae1a-48f6-b171-45778697c4ff">
@@ -84,7 +84,7 @@ The 3D PCA scatter plots (Figures 6.4.1 through 6.4.3 and Image 13) provide the 
 
 ---
 
-### *Direct Comparison: Original vs. PCA (Figures 7.1.1, 7.1.2, 7.2.1, 7.2.2, 7.3.1)*
+### *Direct Comparison: Original vs. PCA (Figures 7.1.1, 7.1.2, 7.2.1, 7.2.2, 7.3.1, 7.3.2)*
 
 <img width="520" alt="crypto15" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/e7d3af85-0fa8-4bce-938e-0c726fa75604">
 
